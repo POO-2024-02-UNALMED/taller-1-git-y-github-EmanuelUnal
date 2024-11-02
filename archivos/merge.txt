@@ -1,0 +1,1 @@
+Al estar vacia, la carpeta no podia subirse sola, y requeria de contenido para ser notada en el repositorio. Ya que estamos en el entorno web de github, podemos crear un commit y subirlo directamente a nuestro repositorio.
