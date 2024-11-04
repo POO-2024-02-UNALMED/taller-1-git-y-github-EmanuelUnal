@@ -1,1 +1,1 @@
-
+Como la carpeta no tenia archivos antes, no se podia realizar el commit, una vez se creo el archivo "repuesta.txt", fue posible hacer el commit de la carpeta
