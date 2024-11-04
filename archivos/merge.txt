@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Emanuel Palacio
 17 años
 Espero utilizar el conocimiento de la materia para crear y desarrollar programas útiles y creativos.
+=======
+Como la carpeta no tenia archivos antes, no se podia realizar el commit, una vez se creo el archivo "repuesta.txt", fue posible hacer el commit de la carpeta
+
+Es importante tener cuidado al modificar un mismo archivo desde diferentes ubicaciones ya que puede pasar situaciones como esta, en la que los archivos se juntan, esto puede ser inconveniente en los casos que no queramos juntar los archivos o trabajar con versiones distintas de uno solo
+>>>>>>> e8cd4d1a2e19f3445bc2a91f6dfe4ff420f6447e
